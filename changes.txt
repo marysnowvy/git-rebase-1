@@ -1,1 +1,2 @@
 First line from Contributor A
+Second line from Contributor A
